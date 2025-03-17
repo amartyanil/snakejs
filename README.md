@@ -20,13 +20,13 @@ This is a simple implementation of the classic Snake game using Node.js, built e
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/amartyanil/snakejs.git
     ```
 
 2. Navigate into the project folder:
 
     ```bash
-    cd snake-game
+    cd snakejs
     ```
 
 3. No additional dependencies are required, since the game uses built-in Node.js modules.
@@ -36,7 +36,7 @@ This is a simple implementation of the classic Snake game using Node.js, built e
 1. **Start the Game**: Run the game with the following command:
 
     ```bash
-    node snake-game.js
+    node snake.js
     ```
 
 2. **Control the Snake**:
