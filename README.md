@@ -1,6 +1,6 @@
 # Snake Game in Node.js
 
-This is a simple (AI-generated) implementation of the classic Snake game using Node.js, built entirely within the terminal using the `readline` module.
+This is a simple (vibe-coded) implementation of the classic Snake game using Node.js, built entirely within the terminal using the `readline` module.
 
 ## Features
 
